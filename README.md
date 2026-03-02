@@ -1,10 +1,10 @@
 The TA sessions this semester will focus on coding practice.
 
-Attendance will be checked through weekly quizzes based on example codes, which must be submitted.
+Attendance will be verified through weekly quizzes and hand-coding tests based on example code, and the required code must be submitted during the practice session.
 
-The answers to the quizzes will be uploaded after each session.
+Quiz answers will be uploaded after each session if necessary.
 
-If you have any questions, please send an email to olr.or@yonsei.ac.kr. (Questions will only be accepted via email.)
+If you have any questions, please send an email to olr.or@yonsei.ac.kr. (Questions related to quizzes and code will be accepted by email only.)
 
 The example codes and quizzes are designed to help with the midterm and final exams, as well as assignments and problem-solving.
 
