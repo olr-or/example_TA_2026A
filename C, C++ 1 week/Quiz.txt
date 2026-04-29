@@ -1,0 +1,29 @@
+# Quiz 1
+아래 조건을 만족하는 코드를 작성하세요.
+int a = 85;
+int b = 90;
+int c = 92;
+
+[조건]
+1. 평균을 실수로 정확히 계산
+2. 정수 나눗셈이 발생하지 않도록 할 것
+3. 결과를 double avg 변수에 저장
+
+# Quiz 2
+char ch = 'Y';
+
+[조건]
+1. 문자를 5칸 뒤로 이동
+2. 'Z'를 넘어가면 'A'부터 다시 시작
+3. 결과를 char result에 저장
+
+# Quiz 3
+[조건]
+1. int 최대값을 직접 정의
+2. +1 했을 때 결과 저장
+3. unsigned int에서 -1 결과 저장
+4. 아래 변수들을 반드시 만들 것 
+   int overflow_result;
+   unsigned int underflow_result;
+5. 두 결과가 왜 다른지 설명
+
